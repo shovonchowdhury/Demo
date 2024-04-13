@@ -1,0 +1,39 @@
+
+p{
+    color: hsl(240, 100%, 1%);
+    height: 200px;
+    font-weight: 500;
+    background-image: url(../Shovon.jpg);
+}
+#special{
+    font-size: 100px;
+}
+.mara{
+    background-color: red;
+}
+a.mara{
+    font-size: 50px;
+}
+img{
+    width: 50%;
+}
+.y{
+    border: 10px solid green;
+    border-radius: 20px;
+    margin: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+.z{
+    border: 10px solid green;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 10px;
+    
+}
